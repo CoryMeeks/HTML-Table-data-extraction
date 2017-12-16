@@ -3,40 +3,73 @@ This is a TopCoder project: Unstructured text mining is the key the future of da
 <img src="http://pokit.org/get/img/9bc0d326b25306d5fe5376bb417dfd9e.jpg" >
 
 The tool would produce output like this one
+
 [{
+
 "Assets": "Current assets.Cash and cash equivalents",
+
 "July 1, 2017": 18571,
+
 "September 24, 2016": 20484
+
 },
+
 {
 "Assets": "Current assets.Short-term marketable securities",
 "July 1, 2017": 58188,
+
 "September 24, 2016": 46671
+
 },
+
 {
+
 "Assets": "Current assets.Accounts receivables, less...",
+
 "July 1, 2017": 12399,
+
 "September 24, 2016": 15754
+
 },
+
 {
+
 "Assets": "Current assets.Inventories",
+
 "July 1, 2017": 3146,
+
 "September 24, 2016": 2132
+
 },
+
 {
+
 "Assets": "Current assets.Vendor non...",
+
 "July 1, 2017": 10233,
+
 "September 24, 2016": 13545
+
 },
+
 {
+
 "Assets": "Current assets.Other current assets",
+
 "July 1, 2017": 10388,
+
 "September 24, 2016": 8283
+
 },
+
 {
+
 "Assets": "Current assets.Other current assets.Total current assets",
+
 "July 1, 2017": 112875,
+
 "September 24, 2016": 106869
+
 }]
  
 
